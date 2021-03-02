@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world_text">0</string>
+    <string name="count">Count</string>
+    <string name="hello">Hello</string>
+    <string name="send">Send</string>
+    <string name="random_heading">Activity №</string>
+    <string name="three">3</string>
+    <string name="_1">Activity go to №1</string>
+    <string name="_2">Activity go to №2</string>
+    <string name="_3">Activity go to №3</string>
+</resources>

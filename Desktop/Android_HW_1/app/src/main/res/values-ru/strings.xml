@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="hello_world_text">0</string>
+    <string name="count">Счетчик</string>
+    <string name="hello">Привет</string>
+    <string name="send">Поделиться</string>
+    <string name="random_heading">Активити №</string>
+    <string name="three">3</string>
+    <string name="_1">Переход на активити №1</string>
+    <string name="_2">Переход на активити №2</string>
+    <string name="_3">Переход на активити №3</string>
+</resources>
